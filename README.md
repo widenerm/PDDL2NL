@@ -1,4 +1,4 @@
-# pddl2nl
+# PDDL2NL
 
 This repository contains code for converting select Planning Domain Definition Language (PDDL) files into natural language (NL) prompts. The project includes Python scripts for conversion alongside converted prompts in NL for training and testing.
 
