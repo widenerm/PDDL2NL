@@ -27,6 +27,3 @@ Small repo containing code for converting select Planning Domain Definition Lang
 
 ## Finetuning LLM's on Planning Problems
 The scripts and data in this repo were used to finetune a model that can be found on [huggingface](https://huggingface.co/XWidener/Phi-3-mini-4k-instruct-plan-NL-finetuned/tree/main) using [unsloth](https://github.com/unslothai/unsloth). 
-
-## Contact
-For questions or feedback, please contact [Xander](widenerm@bc.edu).
