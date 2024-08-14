@@ -23,4 +23,4 @@ This repository contains code for converting select Planning Domain Definition L
 2. Install tarski
    ```bash
    pip install tarski
-4. Replace empty pathnames with actual paths to your domain.pddl, problem.pddl files, and output directory
+4. Replace empty pathnames of desired converter with actual paths to your domain.pddl, problem.pddl files, and output directory
