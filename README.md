@@ -1,6 +1,6 @@
 # PDDL2NL
 
-Small repo containing code for converting select Planning Domain Definition Language (PDDL) files into natural language (NL) prompts. The project includes Python scripts for conversion alongside converted prompts in NL for training and testing Large Language Models (LLMs).
+Small repo containing code for converting select Planning Domain Definition Language (PDDL) files into natural language (NL) prompts using [tarski](https://github.com/aig-upf/tarski). The project includes Python scripts for conversion alongside converted prompts in NL for training and testing Large Language Models (LLMs).
 
 ## Conversion Scripts
 - [**blocks_NL_converter.py**](https://github.com/widenerm/pddl2nl/blob/main/blocks_NL_converter.py): Python script for converting blocksworld PDDL problem files to natural language prompts.
@@ -19,7 +19,7 @@ Small repo containing code for converting select Planning Domain Definition Lang
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/widenerm/pddl2nl/tree/main
+   git clone https://github.com/widenerm/PDDL2NL
 2. Install tarski
    ```bash
    pip install tarski
