@@ -23,7 +23,7 @@ Small repo containing code for converting select Planning Domain Definition Lang
 2. Install tarski
    ```bash
    pip install tarski
-4. Replace empty pathnames of desired converter with actual paths to your domain.pddl, problem.pddl files, and output directory
+4. Replace empty pathnames of desired converter with actual paths to your domain.pddl, problem.pddl files, and output directory.
 
 ## Finetuning LLM's on Planning Problems
 The scripts and data in this repo were used to finetune a model that can be found on [huggingface](https://huggingface.co/XWidener/Phi-3-mini-4k-instruct-plan-NL-finetuned/tree/main) using [unsloth](https://github.com/unslothai/unsloth). 
