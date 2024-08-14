@@ -2,7 +2,7 @@
 
 This repository contains code for converting select Planning Domain Definition Language (PDDL) files into natural language (NL) prompts. The project includes Python scripts for conversion alongside converted prompts in NL for training and testing.
 
-## Repository Structure
+## Conversion Scripts
 - [**blocks_NL_converter.py**](https://github.com/widenerm/pddl2nl/blob/main/blocks_NL_converter.py): Python script for converting blocksworld PDDL problem files to natural language prompts.
 - [**driverlog_NL_converter.py**](https://github.com/widenerm/pddl2nl/blob/main/driverlog_NL_converter.py): Python script for converting driverlog PDDL problem files to natural language prompts.
 - [**gripper_NL_converter.py**](https://github.com/widenerm/pddl2nl/blob/main/gripper_NL_converter.py): Python script for converting gripper PDDL problem files to natural language prompts.
