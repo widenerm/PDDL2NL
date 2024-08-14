@@ -1,6 +1,6 @@
 # pddl2nl
 
-This repository contains code and data for converting Planning Domain Definition Language (PDDL) files into natural language (NL) descriptions. The project includes Python scripts for conversion, training problems in NL, and test problems generated and converted using various tools.
+This repository contains code for converting select Planning Domain Definition Language (PDDL) files into natural language (NL) prompts. The project includes Python scripts for conversion alongside converted prompts in NL for training and testing.
 
 ## Repository Structure
 - [**blocks_NL_converter.py**](https://github.com/widenerm/pddl2nl/blob/main/blocks_NL_converter.py): Python script for converting blocksworld PDDL problem files to natural language prompts.
